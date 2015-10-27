@@ -1,0 +1,13 @@
+{
+  "name": "d3js_test",
+  "version": "0.1.0",
+  "description": "Testando library",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffersonds/d3js_test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-serve": "^0.1.6"
+  }
+}
